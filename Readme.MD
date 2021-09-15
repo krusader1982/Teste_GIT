@@ -2,4 +2,4 @@
 
 ## Aqui estarão os teste que eu fizer para aprendizagem do GIT
 
-![LGPD-1](https://user-images.githubusercontent.com/51200123/112759197-5b203280-8fc8-11eb-80b6-d0056d220fcd.jpg)
+![TS-1](https://github.com/krusader1982/Teste_GIT/blob/master/sprint.png)
